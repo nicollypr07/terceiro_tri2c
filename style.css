@@ -3,8 +3,8 @@ body {background-color: rgb(113, 123, 143);
 h1 {text-align: center;
 }
 h1 {color: rgb(83, 77, 71);
-h2{font-size: smaller;}
-height: 3px;
+h2 {font-size: smaller;
+height: 3px;}
 h2{font-variant: small-caps;}
 h3{-ms-flow-into: initial;}
 h4{font-size: 200%;}
