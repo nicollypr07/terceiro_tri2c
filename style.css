@@ -7,3 +7,6 @@ h2{font-size: smaller;}
 height: 3px;
 h2{font-variant: small-caps;}
 h3{-ms-flow-into: initial;}
+h4{font-size: 200%;}
+color: rgb(207, 178, 214);
+}
